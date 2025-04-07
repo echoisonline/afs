@@ -1,0 +1,7 @@
+.bgTransparent {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.shadowing {
+  box-shadow: 4px 0px 16px rgba(0, 0, 0, 0.07);
+}
